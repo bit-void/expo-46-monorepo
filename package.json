@@ -12,7 +12,5 @@
   "keywords": [],
   "author": "",
   "license": "ISC",
-  "dependencies": {
-    "uuid": "^9.0.0"
-  }
+  "private": true
 }
